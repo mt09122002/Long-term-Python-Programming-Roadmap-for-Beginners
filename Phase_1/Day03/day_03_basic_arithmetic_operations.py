@@ -1,6 +1,6 @@
 # Take two numbers as input
-a = float(input("Enter first number: "))
-b = float(input("Enter second number: "))
+a = 10
+b = 5
 
 # Print results
 print("Sum:", a + b)

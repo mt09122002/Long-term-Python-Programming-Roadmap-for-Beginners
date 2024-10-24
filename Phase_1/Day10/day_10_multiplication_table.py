@@ -1,7 +1,7 @@
 # Day 10: Multiplication Table
 
 # Get user input
-n = int(input("Enter a number: "))
+n = 3
 
 # Generate multiplication table
 for i in range(1, n + 1):
