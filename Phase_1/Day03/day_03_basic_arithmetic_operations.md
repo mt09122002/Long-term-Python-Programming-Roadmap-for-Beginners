@@ -12,6 +12,7 @@ Python supports various arithmetic operations, including addition, subtraction, 
 
 ### Example:
 
+```python
 a = 10
 b = 5
 
@@ -20,3 +21,4 @@ difference = a - b # Subtraction
 product = a \* b # Multiplication
 quotient = a / b # Division
 remainder = a % b # Modulus
+```
